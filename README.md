@@ -31,7 +31,6 @@ The FIFTH Property Management System is a Django-based API that provides functio
                                             +-------------------+
 ```
 
-(images/erd-diagram.png)
 ### Relationships:
 - A Contact can be either a Landlord or a Tenant
 - A Landlord can own multiple Units
